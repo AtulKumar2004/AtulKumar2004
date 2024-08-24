@@ -35,7 +35,7 @@
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=atulkumar2004&show_icons=true&locale=en" alt="atulkumar2004"/>&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=atulkumar2004&show_icons=true&locale=en" alt="atulkumar2004"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=atulkumar2004&" alt="atulkumar2004" />
 </div>
