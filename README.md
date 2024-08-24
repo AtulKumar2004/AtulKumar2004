@@ -36,7 +36,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atulkumar2004&show_icons=true&locale=en" alt="atulkumar2004" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atulkumar2004&" alt="atulkumar2004" /></p>
-![snake gif](https://github.com/AtulKumar2004/AtulKumar2004/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/AtulKumar2004/AtulKumar2004/blob/output/github-contribution-grid-snake.svg)
 <!---
 AtulKumar2004/AtulKumar2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
