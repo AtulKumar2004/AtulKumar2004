@@ -1,4 +1,4 @@
-![logo](https://github.com/AtulKumar2004/AtulKumar2004/blob/main/A%20Computer%20Science%20Student%20(3).png)
+![logo](https://github.com/AtulKumar2004/AtulKumar2004/blob/main/A%20Computer%20Science%20Sudent.png)
 <h1 align="center">Hi 👋, I'm Atul Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **akdeoghar16@gmail.com**
 
-- ⚡ Fun fact **Did you know that honey never spoils?**
+- ⚡ Fun fact **Did you know that honey never spoils and you can add 1 to an integer a by writing a = -~a😉?**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
