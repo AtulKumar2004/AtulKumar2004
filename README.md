@@ -42,8 +42,10 @@
 
 <div align="center">
 <h2>🐍 My Contributions 🐍</h2>
-  
-![snake gif](https://github.com/AtulKumar2004/AtulKumar2004/blob/output/github-contribution-grid-snake.gif)
+
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/AtulKumar2004/AtulKumar2004/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/AtulKumar2004/AtulKumar2004/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+<!--- ![snake gif](https://github.com/AtulKumar2004/AtulKumar2004/blob/output/github-contribution-grid-snake.gif) --->
 </div>
 <!---
 AtulKumar2004/AtulKumar2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
