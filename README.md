@@ -2,13 +2,13 @@
 <h1 align="center">Hi 👋, I'm Atul Kumar</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atulkumar2004&label=Profile%20views&color=0e75b6&style=flat" alt="atulkumar2004" /> </p>
 
 <p align="left"> <a href="https://twitter.com/kumaratul2004" target="blank"><img src="https://img.shields.io/twitter/follow/kumaratul2004?logo=twitter&style=for-the-badge" alt="kumaratul2004" /></a> </p>
 
-- 🌱 I’m currently learning **Application Programming Interface from Udemy**
+- 🌱 I’m currently learning **Postgres SQL from Udemy**
 
 - 🤝 I’m looking to contribute to **Open Source**
 
