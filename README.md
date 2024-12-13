@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/kumaratul2004" target="blank"><img src="https://img.shields.io/twitter/follow/kumaratul2004?logo=twitter&style=for-the-badge" alt="kumaratul2004" /></a> </p>
 
-- 🌱 I’m currently learning **Postgres SQL from Udemy**
+- 🌱 I’m currently learning **React.js from Udemy**
 
 - 🤝 I’m looking to contribute to **Open Source**
 
@@ -16,7 +16,7 @@
 
 - 📫 You can reach me on **akdeoghar16@gmail.com**
 
-- ⚡ Fun fact **Did you know that honey never spoils and you can add 1 to an integer a by writing a = -~a😉?**
+- ⚡ Fun fact **Did you know that Venus is the only planet to spin clockwise?**
 <div align="center">
 <h3>Connect with me:</h3>
 <p>
