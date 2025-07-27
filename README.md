@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/kumaratul2004" target="blank"><img src="https://img.shields.io/twitter/follow/kumaratul2004?logo=twitter&style=for-the-badge" alt="kumaratul2004" /></a> </p>
 
-- 🌱 I’m currently learning **React.js from Udemy**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 🤝 I’m looking to contribute to **Open Source**
 
